@@ -1,0 +1,12 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Node-based media player client which can run local media files of various filetypes , or stream video/audio from various filetypes like Youtube,Spotify,etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
